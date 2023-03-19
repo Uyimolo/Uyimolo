@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Urhoghide Justin Uyioghosa
 - 👀 I’m interested in everything tech
-- 🌱 I’m currently learning react and tailwind CSS
-- 💞️ I’m looking to collaborate on Vanilla JS projects
+- 🌱 Currently learning React, Tailwind CSS and Firebase backend service
+- 💞️ I’m looking to collaborate on Vanilla JS and React projects 
 
 <!---
 Uyimolo/Uyimolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
